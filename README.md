@@ -128,18 +128,6 @@ Driving release governance, DevOps adoption and software delivery excellence acr
 
 <img src="https://github-profile-trophy.vercel.app/?username=viktorfreire&theme=darkhub&no-frame=true&row=1&column=6" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viktorfreire&theme=github-compact&hide_border=true" width="95%" />
-
-<br><br>
-
-| Repository | Description |
-|---|---|
-| [**release-forge**](https://github.com/viktorfreire/release-forge) <br> ![Language](https://img.shields.io/github/languages/top/viktorfreire/release-forge?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/viktorfreire/release-forge?style=flat-square) ![Stars](https://img.shields.io/github/stars/viktorfreire/release-forge?style=flat-square) | Automates Azure DevOps Release work items by continuously syncing Features and Defects — keeping descriptions, links, and lifecycle states always up to date. |
-| [**TagManager.FreeText**](https://github.com/viktorfreire/TagManager.FreeText) <br> ![Language](https://img.shields.io/github/languages/top/viktorfreire/TagManager.FreeText?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/viktorfreire/TagManager.FreeText?style=flat-square) ![Stars](https://img.shields.io/github/stars/viktorfreire/TagManager.FreeText?style=flat-square) | Free text tag PCF for Dynamics 365. Lets users enter words separated by semicolons as tags, optionally read-only without relying on Field Security Profiles. |
-| [**Dataverse.ManagedIdentity**](https://github.com/viktorfreire/Dataverse.ManagedIdentity) <br> ![Language](https://img.shields.io/github/languages/top/viktorfreire/Dataverse.ManagedIdentity?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/viktorfreire/Dataverse.ManagedIdentity?style=flat-square) ![Stars](https://img.shields.io/github/stars/viktorfreire/Dataverse.ManagedIdentity?style=flat-square) | Managed identity library that allows using Azure credentials to log in to Dataverse. |
-
 </div>
 
 ---
