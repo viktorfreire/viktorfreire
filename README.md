@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://viktorfreire.servehttp.com/images/profile.jpg" alt="Victor Freire" width="180" />
+<img src="./victor_freire_github_banner.png" alt="Victor Freire GitHub Banner" />
 
 # Victor Freire
 
