@@ -121,12 +121,7 @@ Driving release governance, DevOps adoption and software delivery excellence acr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viktorfreire&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktorfreire&theme=dark&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=viktorfreire&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -136,20 +131,10 @@ Driving release governance, DevOps adoption and software delivery excellence acr
 
 <div align="center">
 
-<a href="https://viktorfreire.servehttp.com">
-  <img src="https://img.shields.io/badge/Website-Executive%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://viktorfreire.servehttp.com/portfolio.html">
-  <img src="https://img.shields.io/badge/Portfolio-Featured%20Work-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/viktorfreire/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://learn.microsoft.com/en-us/users/viktorfreire/">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Certifications-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
-</a>
-<a href="https://viktorfreire.servehttp.com/contact.html">
-  <img src="https://img.shields.io/badge/Contact-Lets%20Talk-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
-</a>
+<a href="https://viktorfreire.servehttp.com"><img src="https://img.shields.io/badge/Website-Executive%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://viktorfreire.servehttp.com/portfolio.html"><img src="https://img.shields.io/badge/Portfolio-Featured%20Work-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/viktorfreire/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://learn.microsoft.com/en-us/users/viktorfreire/"><img src="https://img.shields.io/badge/Microsoft%20Learn-Certifications-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
+<a href="https://viktorfreire.servehttp.com/contact.html"><img src="https://img.shields.io/badge/Contact-Lets%20Talk-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 
 </div>
